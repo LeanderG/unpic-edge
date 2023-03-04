@@ -3,7 +3,6 @@ dist
 .output
 .vercel
 .netlify
-netlify
 
 # IDEs and editors
 /.idea
