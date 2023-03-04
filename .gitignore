@@ -1,13 +1,9 @@
 
 dist
-.solid
 .output
 .vercel
 .netlify
 netlify
-
-# dependencies
-/node_modules
 
 # IDEs and editors
 /.idea
@@ -15,10 +11,3 @@ netlify
 .classpath
 *.launch
 .settings/
-
-# Temp
-gitignore
-
-# System Files
-.DS_Store
-Thumbs.db
